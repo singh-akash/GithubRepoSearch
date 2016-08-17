@@ -1,0 +1,3 @@
+username=<Your git Username>
+oauth.token=<Your auth token>
+language=JavaScript

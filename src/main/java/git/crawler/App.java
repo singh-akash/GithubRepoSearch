@@ -14,7 +14,7 @@ import org.kohsuke.github.PagedSearchIterable;
 
 public class App {
 
-	public static final String PROPERTIES_FILE = "C:/Akash/properties.txt";
+	public static final String PROPERTIES_FILE = "C:/GitSearchProps/properties.txt";
 	public static final String SEARCH_TERM = "NOT ersfasqw43sjdfjkljrarahfsdifohgs34_RANDOM_TEXT_fr";
 	
 	public class Properties {
